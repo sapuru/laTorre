@@ -10,10 +10,18 @@
         <link rel="stylesheet" href="../css/style.css">
     </head>
     <body>
+        <header>
+    <div class="container">
+        <div class="row">
+            <div class="twelve columns">
         <h1>Guerrero</h1>
         <%
         
         
         %>
+            </div>
+        </div>
+    </div>
+        </header>
     </body>
 </html>
