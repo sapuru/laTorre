@@ -9,6 +9,7 @@
         <link rel="stylesheet" href="../css/skeleton.css">
         <link rel="stylesheet" href="../css/style.css">
 	<script src="../js/modernizr.js"></script> <!-- Modernizr -->
+        <link href="https://fonts.googleapis.com/css?family=Cinzel:900|Fenix" rel="stylesheet"> 
 </head>
 <body>
 	<div class="cd-slideshow-wrapper">

@@ -68,9 +68,19 @@ html {
   font-size: 62.5%;
 }
 
+@font-face {
+  font-family: 'Cinzel', serif;
+  src:url('../fonts/Cinzel-Black.ttf');
+}
+
+@font-face {
+  font-family: 'Fenix', serif;
+  src:url('../fonts/Fenix-Regular.ttf');
+}
+
 body {
   font-size: 1.6rem;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Fenix', serif;
   color: #ffffff;
   background-color: #4E4D4F;
   -webkit-font-smoothing: antialiased;
@@ -312,7 +322,8 @@ Slide Content
   }
   .cd-slider-content h2 {
     font-size: 4rem;
-    font-weight: 300;
+    font-weight: 900;
+    font-family: 'Cinzel',serif;  
   }
   .cd-slider-content p {
     font-weight: bold;
@@ -604,7 +615,7 @@ no-js
 }
 
 .textos {
-    font-weight:normal;
+    font-weight:400;
     text-align:left;
-    font-family:serif;
+    line-height:1.9em;
 }
