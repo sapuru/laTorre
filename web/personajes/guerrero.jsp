@@ -188,7 +188,36 @@ Ah Draicon al fin llegas, ven siéntate.
 					<li>
 						<div class="cd-slider-content">
 							<div class="content-wrapper">
-								<h2>Slider #2 - Sub #3</h2>
+                                                                <div class="container">
+                                                                <div class="row">
+                                                                    <div class="six columns textos">
+                                                                        <p>Mi padre me invita a la mesa central de la biblioteca, una mesa de madera con un enorme mapa en el centro con todos los lugares de interés. Mientras me siento el mago Wave empieza con la explicación del porque me citaron en la biblioteca.<br>
+                                                                            -Hoy te citamos en la biblioteca, por la naturaleza de la misión que te encomendaremos.<br>
+                                                                            - Como sabes hijo, aun nos faltan algunos fragmentos del equipo del guerrero dragón ? agrega mi padre.<br>
+                                                                            -Si, los guanteletes y la espada ? prosigue Wave ? tú debes recuperar sus guantes y espada, que se encuentran en la torre Amnant.<br>
+                                                                            -No sabemos con exactitud que puedas encontrar dentro de la torre ? agrega Wave ? no te mentiré Draicon, es una misión peligrosa pero solo tú puedes llevarla a cabo.<br>
+                                                                            -Entenderé sino puedes hacerlo Draicon ? dice mi padre con un tono de preocupación ? si lo deseas puedo envi?<br>
+                                                                            -No, lo hare padre ? detengo a mi padre antes de que prosiga ? esto no será distinto a cuando ayude a buscar los demás fragmentos de la armadura.<br>
+                                                                            -De hecho, si lo será ? agrega Wave.<br>
+                                                                            -¿A qué te refieres Wave? ? no me gusta hacia dónde va esto.<br>
+                                                                            -Debes ir solo Draicon.<br>
+                                                                        </p>
+                                                                    </div>
+                                                                    
+                                                                    <div class="six columns textos">
+                                                                        <p>¿Solo? No tengo la suficiente experiencia en batalla como para enfrentar lo que sea que este dentro de esa torre, pero ya dije que si .Por no mencionar lo que mi padre y Wave estaban discutiendo, debo hacerlo y lograr recuperar esa espada.<br>
+                                                                            -No importa si debo ir solo, lo hare.<br>
+                                                                            -Que no se hable mas entonces ? concluye Wave ? partirás hacia la torre ahora mismo.<br>
+                                                                            -Supongo que no hay nada más que decir al respecto ? agrega mi padre ? hay un caballo, ya listo, en el establo.<br>
+                                                                            -Aquí tienes un mapa, te deseo suerte Draicon ? concluye mi padre, aun preocupado.<br>
+                                                                            Supongo que solo queda ponerme en marcha hacia la torre.<br>
+                                                                            Pero primero busco el equipo necesario para el viaje, creo que para hacer una fogata necesito semillas de Flor Ígnea, una pequeña cantimplora, además de un poco de cuerda y una manta lo suficientemente grande para improvisar un pequeño refugio y creo que llevare una espada de la armería, solo por si acaso.<br>
+                                                                            
+                                                                        </p>
+                                                                    </div>
+                                                                </div>
+                                                                    Continuar abajo
+                                                                </div>
 							</div>
 						</div>
 					</li>
@@ -198,25 +227,225 @@ Ah Draicon al fin llegas, ven siéntate.
 			<li id="slide-3">
 				<div class="cd-slider-content">
 					<div class="content-wrapper">
-						<h2>Slider #3</h2>
+						       <div class="container">
+                                                                <div class="row">
+                                                                    <div class="six columns textos">
+                                                                        <p>Según los reportes de los exploradores la torre esta a un día y medio del castillo y es posible armar un pequeño campamento en el templo Percusor, una edificación de forma rectangular con una puerta que no da a ningún cuarto, solo al horizonte.<br>
+                                                                            El viaje hacia a la torre no fue nada especial, al llegar a un pequeño poblado de camino hacia la torre comí un poco y rellene la cantimplora y continúe mi viaje.<br>
+                                                                            Al acercarse la noche puedo alcanzar a ver el templo Precursor, al llegar al templo, dejo al caballo atado en donde pienso armar mi campamento, busco unas ramas y las ato de forma que al ponerles la manta encima cree un refugio para poder pasar la noche, para crear una fogata utilizo las semillas de flor ígnea, dado que si pones varias sobre la madera esta se prendera fuego, con el campamento listo, ahora que solo queda descansar.<br>
+
+                                                                        </p>
+                                                                    </div>
+                                                                    
+                                                                    <div class="six columns textos">
+                                                                        <br>
+                                                                        <img src="../imagenes/eve01.jpg" class="u-max-full-width">
+                                                                        <p>Pero, no puedo evitar pensar lo que me espera en esa torre, que tipo de peligros habitaran el interior de la torre, la incesante cantidad de trampas y acertijos que me esperan.
+Perdido en mis pensamientos sobre la torre caigo dormido.</p>
+                                                                    </div>
+                                                                </div>
+                                                                    Continuar abajo
+                                                                </div>
 					</div>
 				</div>
 			</li>
 
 			<li id="slide-4">
+                            <ol class="sub-slides">
+                                <li>
 				<div class="cd-slider-content">
 					<div class="content-wrapper">
-						<h2>Slider #4</h2>
+						       <div class="container">
+                                                                <div class="row">
+                                                                    <div class="four columns textos">
+                                                                        <p>Esta sensación, ¿Dónde estoy?, todos esta vacio y hace frio, no puedo ver nada a mi alrededor y creo que estoy cayendo.<br>
+                                                                            -Un segundo, ¿¡no estaré muerto verdad!? ? se me escapan esas palabras debido a la exaltación.<br>
+                                                                            Pero la obscuridad a mi alrededor se convierten en imágenes, tres dragones de color blanco y uno más grande detrás, Nova la madre celestial, los elementos hielo, aire y luz combatiendo entre sí, uno se alza victorioso y reclama el poder de Nova.<br>
+                                                                            Es un ciclo de odio sin fin.<br>
+                                                                        </p>
+                                                                    </div>
+                                                                    
+                                                                    <div class="four columns textos">
+                                                                        <p>No recuerdo el resto del sueño, pero no puedo olvidar ese sentimiento de odio y resentimiento, entre aquellos que combaten por el poder de Nova.<br>
+                                                                            Despierto en la mañana, los pájaros cantan con la misma alegría de siempre, y la torre es visible en el horizonte, voy a dejar el campamento armado para cuando regrese con la espada. Con eso dicho subo al caballo y retomo el viaje.<br>
+                                                                            Finalmente llego a la torre, en la puerta de piedra negra están grabadas las siguientes palabras.<br>
+                                                                    </div>
+                                                                    <div class="four columns textos">
+                                                                        <br>
+                                                                        <br>
+                                                                        <h3>"He aquí el Amnant, el templo del cielo y la tierra, aquellos que estén en busca de tesoros de poder inimaginable y no teman a las sombras, entren y encuentren el poder que tanto anhelan."</h3>
+                                                                        <p>- muy exagerado en mi opinión.</p>
+                                                                    </div>
+                                                                </div>
+                                                                    Continuar -->
+                                                                </div>
 					</div>
 				</div>
+                                </li>
+                                                                <li>
+				<div class="cd-slider-content">
+					<div class="content-wrapper">
+						       <div class="container">
+                                                                <div class="row">
+                                                                    <div class="four columns textos">
+                                                                        <p>Al leerlo en voz alta las letras de la gran puerta de piedra negra brillan y la puerta se abre lentamente con un sonido de movimiento pesado, al abrirse la puerta puedo sentir el aire frio del apenas iluminado pasillo frente a mí, un limitado número de antorchas, tomo una antorcha encendida y procedo a investigar la torre, luego de avanzar por el pasillo llego a un salón circular mejor iluminado hay tres puertas, la central es la más grande de las tres y un es un tanto peculiar la demás puertas en la sala son de madera, pero esta puerta es de metal, es como si estuviera reforzada para mantener algo adentro, además de que tiene una palabra extraña cuyo significado no entiendo. Sin mencionar que en la palabra faltan algunas letras. 
+                                                                        </p>
+                                                                    </div>
+                                                                    
+                                                                    <div class="four columns textos">
+                                                                        <p>No me da mucha confianza, junto a la puerta hay un cristal de color verde marino, creo que leí un poco acerca de ese cristal, es un cristal de alma, según el libro: <br>
+                                                                            <span style="italic">"Los cristales de alma se unen a la persona que los toca, conservando su esencia, para que si en caso de que esa persona perezca darle otra oportunidad, y así cambiar su destino, pero el cristal solo es capaz de devolver la vida dos veces. Por lo que recuerda posible usuario de piedra de alma, aprende de tu errores y no los repitas, no podrás repetir tus errores eternamente."</span><br>
+                                                                            -Un cristal de alma ¿eh? <br>                                                          
+                                                                        </p>
+                                                                    </div>
+                                                                    <div class="four columns textos">
+                                                                        <p> Antes de aventurarme por la puerta central investigo un poco, decido ir por la puerta de la derecha primero, al abrir la puerta de madera un extraño olor comienza a emanar.<br>
+                                                                            Cuando ingreso al cuarto no puedo distinguir nada debido a la obscuridad, cuando observo un poco puedo ver una antorcha al lado derecho de la puerta por la que ingrese a la habitación, al prender la antorcha apagada que esta junto a la puerta puedo ver con más claridad en la obscura habitación y por fin descubro la fuente de ese extraño olor.
+                                                                        </p>
+                                                                    </div>
+                                                                </div>
+                                                                    Continuar -->
+                                                                </div>
+					</div>
+				</div>
+                                </li>
+                                
+                                                                                                <li>
+				<div class="cd-slider-content">
+					<div class="content-wrapper">
+						       <div class="container">
+                                                                <div class="row">
+                                                                    <div class="four columns textos">
+                                                                       <p>Es una extraña masa de baba de color azul, un Limo, pese a la súbita iluminación del cuarto el Limo aun no se percata de mi presencia, y al observarlo bien puedo ver que tiene algo en su interior. Pese a mi poca experiencia en batalla podría vencer al Limo para conseguir lo que sea que tenga en su interior, tal vez me sea de utilidad.
+ El limo parece percatarse de mi presencia y empieza a retorcerse, a contraerse, como si me estuviera advirtiendo que no me acercara. Avanzo hacia el limo con mi espada en mano y *Scuash* al golpearlo el limo se retuerce, *Scuash* golpeo nuevamente, enseguida noto que mi espada se ve rara.
+                                                                    </p>
+                                                                    </div>
+                                                                    
+                                                                    <div class="four columns textos">
+                                                                        <p>Según parece el Limo derrite mi espada cada vez que esta lo golpea, pero el Limo se debilita perdiendo tamaño y consistencia, por lo que golpeo una vez más *Scuash*. El Limo se desase, o mejor dicho se derrite, dejando tras de sí el contenido de su estomago.
+ Es un cofre con una llave de forma rara dentro, el diseño de la llave consiste en la parte trasera adornada con una pequeña gema roja dentro de lo que parece ser remolino tallado, mientras que la parte delantera parece una especie de E.                                                                        </p>
+                                                                    </div>
+                                                                    <div class="four columns textos">
+                                                                        <img src="../imagenes/llave-e.jpg" class="u-max-full-width">
+                                                                    </div>
+                                                                </div>
+                                                                    Continuar abajo
+                                                                </div>
+					</div>
+				</div>
+                                </li>
+                            </ol>
 			</li>
 
 			<li id="slide-5">
+                            <ol class="sub-slides">
+                                <li>
 				<div class="cd-slider-content">
 					<div class="content-wrapper">
-						<h2>Slider #5</h2>
+                                                                <div class="container">
+                                                                <div class="row">
+                                                                    <div class="four columns textos">
+                                                                       <p> Salgo de la habitación ahora vacía y prosigo hacia la puerta de madera de la izquierda, al ingresar al cuarto y luego de encender la antorcha, compruebo que no haya alguna criatura dentro del cuarto.
+ El cuarto de por si no tiene nada en especial salvo por una pequeña tablilla con un acertijo en ella, luego de resolver el acertijo oigo un sonido como de engranaje detrás de la tablilla.
+                                                                       </p>
+                                                                    </div>
+                                                                    
+                                                                    <div class="four columns textos">
+                                                                        <p> La tablilla se abre a medida que los engranajes giran, cuando la tablilla se detiene dentro encuentro una segunda llave y un mazo antiguo que parecía estar hecho de un material distinto al metal, y tiene una inscripción que dice
+                                                                        <h3>"Tu determinación será capaz de doblegar su espíritu y avanzar"       </h3>                                                        </div>
+                                                                    <div class="four columns textos">
+                                                                        <img src="../imagenes/llave-e.jpg" class="u-max-full-width">
+                                                                        <p> La llave en lugar de una gema roja tiene una gema de color azul y en lugar de una E, la parte delantera tiene forma de T.</p>
+                                                                    </div>
+                                                                </div>
+                                                                    Continuar -->
+                                                                </div>
 					</div>
 				</div>
+                                </li>
+                                
+                                                                <li>
+				<div class="cd-slider-content">
+					<div class="content-wrapper">
+                                                                <div class="container">
+                                                                <div class="row">
+                                                                    <div class="four columns textos">
+                                                                       <p>  Investigo un poco las habitaciones y el vestíbulo para ver si encuentro alguna otra cosa de utilidad pero no encuentro nada en especial, creo que no lo puedo posponer mas debo abrir la puerta central.
+ Coloco las llaves en el orificio que corresponden, pero sigo sin entender la palabra ?Retav?. 
+                                                                       </p>
+                                                                    </div>
+                                                                    
+                                                                    <div class="four columns textos">
+                                                                        <p>  ¿Qué significa eso?
+ Luego de pensar un poco, opte por acomodarlo al azar, sin conseguir nada.
+ Seguí investigando para ver si conseguía algo, encontré una palabra en Latón escrita en la tablilla que abrí en la habitación izquierda, al pensar un poco y confirmar que ambas poseían las mismas letras intente acomodar las letras en la puerta de metal para formar la misma palabra y al girar las llaves chaola la puerta finalmente cedió.                                            </div>
+                                                                    <div class="four columns textos">
+                                                                        
+                                                                        <p> Aquí va el anagrama </p>
+                                                                    </div>
+                                                                </div>
+                                                                    Continuar -->
+                                                                </div>
+					</div>
+				</div>
+                                </li>
+                                
+                                                                                                <li>
+				<div class="cd-slider-content">
+					<div class="content-wrapper">
+                                                                <div class="container">
+                                                                <div class="row">
+                                                                    <div class="four columns textos">
+                                                                       <p>Era una sala un poco más grande que la sala anterior, por suerte estaba iluminada pero no por antorchas, sino por unos objetos raros adheridos a la pared que brillaban con una luz blanca brillante era como la luz de la luna llena.
+ En el centro de la habitación había una sección elevada con una escalera de piedra en esa sección elevada hay algo parecido a una mesa con flores blancas a su alrededor que relucían con la luz blanca de los extraños objetos en la pared.
+                                                                       </p>
+                                                                    </div>
+                                                                    
+                                                                    <div class="four columns textos">
+                                                                        <p>   Al acercarme puedo sentir un crujido bajo mis pies, no puedo distinguir que lo provoca, dado que la antorcha que poseía anteriormente se apago ahora solo me queda guiarme por la tenue luz blanca de la habitación.
+ Ya a los pies de la escalera, siento un escalofrió y al ver hacia atrás no logro ver nada raro por lo que prosigo a  subir hacia la sección, en la mitad de la escalera oigo un ruido detrás de mí, al darme la vuelta pude ver que causaba ese extraño sonido.                                          </div>
+                                                                    <div class="four columns textos">
+                                                                        
+                                                                        <p>  Como no lo pensé que mas podría causar ese sonido, esqueletos, todos los que aparentemente estaban en el suelo se están poniendo de pie y vienen hacia mí.
+ Sus cuencas oculares brillan con un extraño color carmesí
+ Ahora todo tiene sentido, eso que está en la sección elevada no es una mesa, es un ataúd. Que se supone que haga ahora, mi espada no será suficiente para vencerlos, después de la pelea con el limo quedo en mal estado.</p>
+                                                                    </div>
+                                                                </div>
+                                                                    Continuar -->
+                                                                </div>
+					</div>
+				</div>
+                                </li>
+                                
+                                                                                                                                <li>
+				<div class="cd-slider-content">
+					<div class="content-wrapper">
+                                                                <div class="container">
+                                                                <div class="row">
+                                                                    <div class="four columns textos">
+                                                                       <p>Mejor sigo adelante con suerte podre pensar en algo, no son muy rápidos, al llegar al ataúd puedo leer una inscripción.
+                                                                       </p>
+                                                                       <h3>?Aquí yace el Maestre David Corazón de cristal, el cual en su bondad fue el  responsable de la construcción de nuestro puente al cielo, nosotros protegeremos tu Corazón aun después de la misma muerte?</h3>
+                                                                    </div>
+                                                                    
+                                                                    <div class="four columns textos">
+                                                                        <p>
+                                                                            -¿Corazón? ¡Eso es!
+Utilice mi demacrada espada para poder romper la cerradura del ataúd.
+*¡Crash!* 
+La espada se hace pedazos junto con la cerradura, al sacar la tapa del ataúd encuentro el esqueleto de David y en el pecho una extraña gema de color carmesí brillaba con intensidad, saco el mazo antiguo que recogí de la habitación y lo utilizo para golpear el corazón de David.
+                                                                        </p>
+                                                                        <div class="four columns textos">
+                                                                        
+                                                                        <p> Aquí van los dados para la lucha? </p>
+                                                                    </div>
+                                                                </div>
+                                                                    Continuar -->
+                                                                </div>
+					</div>
+				</div>
+                                </li>
+                            </ol>
 			</li>
 
 			<li id="slide-6">
