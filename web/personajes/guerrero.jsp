@@ -575,6 +575,8 @@ Sin duda ese cristal tenia propiedades obscuras, solo los nigromantes son capace
                                                                         <div class="six columns textos">
                                                                             <p>Inspecciono la puerta central, parece tener otro acertijo pero no creo que yo pueda resolverlo, jamás fui bueno en matemáticas.<br>
                                                                             </p>
+                                                                            <p>Aquí va el formulario para el acertijo</p>
+                                                                          
                                                                         </div>
                                                                         <div class="six columns">
 
@@ -642,7 +644,38 @@ Al acercarme a la habitación de la izquierda, oigo un siseo, esto no me gusta ab
 				</ol> <!-- .sub-slides -->
 			</li>
                         
-               
+               			<li id="slide-7">
+				<div class="cd-slider-content">
+					<div class="content-wrapper">
+						       <div class="container">
+                                                                <div class="row">
+                                                                    <div class="six columns textos">
+                                                                        <p>
+                                                                            Al resolver el acertijo de la puerta central y abrirla, dentro hay una sala que a diferencia de las anteriores la única luz que entra es la de un toma luz en el techo de la sala que ilumina una armadura de color negro que esta sentando sobre un trono hay varias armas rota lanzas, espadas, hachas, mazas, restos de escudos sin mencionar los restos de los propietarios de las armas.<br>
+                                                                            Al ingresar al cuarto la puerta detrás de mí se cierra con un estruendo.<br>
+                                                                            El aire dentro de la habitación se mueve con fuerza.<br>
+                                                                        </p>
+                                                                    </div>
+                                                                    
+                                                                    <div class="six columns textos">
+                                                                        <p>
+                                                                            -¡GOAHHHHHHHHHHHHHHHHHHHH!<br>
+                                                                            La extraña armadura antes inmóvil dio un salto en mi dirección.<br>
+                                                                            -¿¡?.!?  <br>
+                                                                            Logro esquivar a la armadura que apuntaba a mi cuello, de no haber rodado habría tenido mi garganta desgarrada.<br>
+                                                                            -¡AHHHHHHHHHHHHH!<br>
+                                                                            La armadura se abalanza nuevamente hacia mí pero esta vez luego de esquivarlo esta me lanza hacia el otro extremo de la habitación de una patada.<br>
+                                                                            -¡Guah?!<br>
+                                                                            -¡GOAHHHHHHHHH!<br>
+                                                                        </p>
+                                                                    </div>
+                                                                </div>
+                                                                    ¿Acá va un código de pelea? 
+                                                                </div>
+					</div>
+				</div>
+			</li>
+
 		</ol> <!-- .cd-slideshow -->
 	</div> <!-- .cd-slideshow-wrapper -->
 	

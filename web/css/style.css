@@ -255,6 +255,9 @@ Slide Content
 .cd-slideshow > li:nth-of-type(6) .cd-slider-content .content-wrapper {
   background: #CF1A02;
 }
+.cd-slideshow > li:nth-of-type(7) .cd-slider-content .content-wrapper {
+  background: #AB8032;
+}
 .cd-slider-content h2 {
   font-size: 3rem;
   color: #ffffff;
