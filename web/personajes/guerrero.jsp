@@ -435,12 +435,22 @@ Utilice mi demacrada espada para poder romper la cerradura del ataúd.
 *¡Crash!* 
 La espada se hace pedazos junto con la cerradura, al sacar la tapa del ataúd encuentro el esqueleto de David y en el pecho una extraña gema de color carmesí brillaba con intensidad, saco el mazo antiguo que recogí de la habitación y lo utilizo para golpear el corazón de David.
                                                                         </p>
+                                                                    </div>
                                                                         <div class="four columns textos">
                                                                         
-                                                                        <p> Aquí van los dados para la lucha? </p>
+                                                                        <p> Los golpes resonaban en toda la habitación pero la gema no se rompía, podía sentir el paso de los esqueletos por la escalera me pareció que su ritmo aumento dado que eran mas rápidos que hace un momento.
+                                                                            *Clanck**Clanck**Clanck*<br>
+                                                                            Mi respiración se agitaba a medida que cada golpe parecía no ser efectivo.<br>
+                                                                            -   Vamos, vamos, vamos!!!<br>
+                                                                            *Clanck**Clanck**Clanck*<br>
+                                                                            Mi corazón se acelera a oír entre golpes la marcha mortal de los esqueletos.<br>
+                                                                            -   Rómpete de una vez pedazo de porquería brillante.<br>
+                                                                            *Clanck**Clanck**Clanck*<br>
+                                                                            Cada vez con más desesperación golpeo la gema, el carmesí de las cuencas de los esqueletos inunda la habitación.<br>
+                                                                            -  ah?.ah?..ah?.ROMPETE!!!!<br> </p>
                                                                     </div>
                                                                 </div>
-                                                                    Continuar -->
+                                                                    Continuar Abajo
                                                                 </div>
 					</div>
 				</div>
@@ -453,7 +463,38 @@ La espada se hace pedazos junto con la cerradura, al sacar la tapa del ataúd enc
 					<li>
 						<div class="cd-slider-content">
 							<div class="content-wrapper">
-								<h2>Slider #6</h2>
+								                                                                <div class="container">
+                                                                <div class="row">
+                                                                    <div class="four columns textos">
+                                                                       <p>El cristal se rompe en pedazos junto con el martillo antiguo, el carmesí se desvanece de la habitación y al unisonó todos los esqueletos caen al suelo.
+Al contemplar eso, solo puedo caer arrodillado para recuperar el aliento suelto la empuñadura del martillo y me apoyo de espaldas al ataúd de David.
+-Ese cristal??
+Sin duda ese cristal tenia propiedades obscuras, solo los nigromantes son capaces de controlar a los muertos de esa forma.
+ Creo que David era algo más que solo un arquitecto.
+-Eso explicaría como terminaste esta maldita torre
+-Ha ha?.                                                                       </p>
+                                                                    </div>
+                                                                    
+                                                                    <div class="four columns textos">
+                                                                        <p>
+                                                                            El aliento apenas me alcanza para reír un poco<br>
+                                                                            -Q-Que bien que tome ese mazo <br>
+                                                                            Me felicito a mi mismo antes de continuar con la búsqueda de la espada, creo que de no haber tomado el mazo, ahora mismo estaría muerto.<br>
+                                                                            Subo por unas escaleras y llego a una puerta metálica, por suerte al empujarla esta se mueve sin activar ninguna trampa y sin necesidad de ningún acertijo.<br>
+                                                                        </p>
+
+                                                                    </div>
+                                                                    <div class="four columns textos">
+                                                                        
+                                                                        <p>Al atravesar la puerta llego a una sala de igual tamaño que la anterior pero esta tiene, por suerte, unas ventanas amplias que iluminan toda la sala.<br>
+                                                                            Puedo distinguir pinturas en las paredes muestran a David comandando a los que parecen ser trabajadores, mientras sostiene la Gema de brillo carmesí.<br>
+                                                                            -Asique realmente utilizaste a los muertos para terminar esta torre, David usted es diabólico.<br>
+                                                                            Luego de decir eso proseguí a investigar la sala del segundo piso.<br>
+                                                                        </p>
+                                                                    </div>
+                                                                </div>
+                                                                    Continuar -->
+                                                                </div>
 							</div>
 						</div>
 					</li>
@@ -461,7 +502,19 @@ La espada se hace pedazos junto con la cerradura, al sacar la tapa del ataúd enc
 					<li>
 						<div class="cd-slider-content">
 							<div class="content-wrapper">
-								<h2>Slider #6 - Sub #1</h2>
+                                                            <div class="container">
+                                                                <div class="row">
+                                                                    <div class="six columns textos">
+                                                                        <h3>Ahora hay cinco puertas una central metálica al igual que la anterior, dos de madera que probablemente vayan hacia una habitación con algo útil, además de dos puertas de algo que parece ser Ébano.</h3>
+                                                                        <button>Habitación Izquierda</button>  <button>Habitación derecha</button> <br>
+                                                                        <button>Habitación Central</button>   <button>Habitación ébano 1</button> <br>
+                                                                        <button>Habitación ébano 2</button>
+                                                                    </div>
+                                                                    <div class="six columns">
+                                                                        <img src="../imagenes/eve06.jpg" class="u-max-full-width">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
 							</div>
 						</div>
 					</li>
@@ -469,12 +522,127 @@ La espada se hace pedazos junto con la cerradura, al sacar la tapa del ataúd enc
 					<li>
 						<div class="cd-slider-content">
 							<div class="content-wrapper">
-								<h2>Slider #6 - Sub #2</h2>
+								<h2>Habitación Izquierda</h2>
+                                                                <div class="container">
+                                                                    <div class="row">
+                                                                        <div class="six columns">
+                                                                            <img src="../imagenes/eve04.jpg" class="u-max-full-width">
+                                                                        </div>
+                                                                        <div class="six columns textos">
+                                                                            <p>Creo que ahora investigare primero la habitación de la izquierda.<br>
+                                                                                Al igual que la sala principal del segundo piso tiene buena iluminación pese a ser un cuarto pequeño, aquí hay un cofre abierto vacio, solo una nota.<br>
+                                                                                ?El contenido del cofre, no te servirá a ti.?<br>
+                                                                                ¿¡Pero que mie-demonios significa esto!? <br>
+                                                                                ¿¡Es alguna clase de broma de mal gusto!? <br>
+                                                                                -Mejor veo que hay en la habitación de la derecha, tal vez tenga mejor suerte.<br>
+                                                                            </p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
 							</div>
 						</div>
 					</li>
+                                        					<li>
+						<div class="cd-slider-content">
+							<div class="content-wrapper">
+								<h2>Habitación Derecha</h2>
+                                                                <div class="container">
+                                                                    <div class="row">
+                                                                        <div class="six columns textos">
+                                                                            <p>Cuando entro a la habitación encuentro un armario, dentro encuentro una espada.<br>
+                                                                                Es una espada con la hoja curva, la empuñadura de la espada cuenta con un cubre mano delgado, de color oxido.<br>
+                                                                                -Linda je<br>
+                                                                                Quedo fascinado por su aspecto, esta espada es perfecta, al menos hasta que encuentre la espada.<br>
+                                                                                -Okey, hora de seguir con esto.<br>
+                                                                            </p>
+                                                                        </div>
+                                                                        <div class="six columns">
+
+                                                                          <img src="../imagenes/eve02.jpg" class="u-max-full-width">
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+							</div>
+						</div>
+					</li>
+                                        
+                                                                                					<li>
+						<div class="cd-slider-content">
+							<div class="content-wrapper">
+								<h2>Habitación Central</h2>
+                                                                <div class="container">
+                                                                    <div class="row">
+                                                                        <div class="six columns textos">
+                                                                            <p>Inspecciono la puerta central, parece tener otro acertijo pero no creo que yo pueda resolverlo, jamás fui bueno en matemáticas.<br>
+                                                                            </p>
+                                                                        </div>
+                                                                        <div class="six columns">
+
+                                                                          <img src="../imagenes/eve02.jpg" class="u-max-full-width">
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+							</div>
+						</div>
+					</li>
+                                        
+                                                                                                                        					<li>
+						<div class="cd-slider-content">
+							<div class="content-wrapper">
+								<h2>Habitación Èbano 1</h2>
+                                                                <div class="container">
+                                                                    <div class="row">
+                                                                        <div class="six columns textos">
+                                                                            <p>Reviso la puerta de Ébano de la izquierda y no se mueve, además no veo un orificio para una llave o alguna clase de acertijo que me permita abrirla.<br>
+                                                                            </p>
+                                                                        </div>
+                                                                        <div class="six columns">
+
+                                                                          <img src="../imagenes/eve02.jpg" class="u-max-full-width">
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+							</div>
+						</div>
+					</li>
+                                                                                                                          					<li>
+						<div class="cd-slider-content">
+							<div class="content-wrapper">
+								<h2>Habitación Èbano 2</h2>
+                                                                <div class="container">
+                                                                    <div class="row">
+                                                                        <div class="six columns textos">
+                                                                            <p>Ahora reviso la puerta de Ébano restante, la cual por alguna razón está abierta.<br>
+                                                                                Algunas  secciones de la puerta parecen haber sido derretidas con alguna sustancia, la sala detrás de la puerta es exactamente igual.<br>
+                                                                                Al ingresar a la habitación de la derecha  veo que hay algunas botellas pequeñas y varios objetos de procedencia natural como, yerbas, hongos, y algunos de procedencia natural.<br>
+                                                                                Creo que lo que sea que elaboraron con esos ingredientes derritió la puerta de ébano, sorprendente, es un nivel de alquimia muy alto.<br>
+Al acercarme a la habitación de la izquierda, oigo un siseo, esto no me gusta abro un poco la puerta y eventualmente el origen del sonido está ahí. Una maldita serpiente, porque tenía que ser una serpiente.<br>
+                                                                            </p>
+                                                                        </div>
+                                                                        <div class="six columns textos">
+                                                                            <p>La serpiente detecta mi presencia dado que sus ojos amarillos se centran en mí, la serpiente es bastante grande, es de un color negro, la esencia a muerte la rodea.<br>
+                                                                                La serpiente trata de atacarme, pero de alguna forma logro evitar ese ataque y la serpiente sale de la habitación.<br>
+                                                                                Tomo coraje y reviso la sala en busca de la serpiente, pero no la encuentro, creo que fue un golpe de suerte. Nuevamente reviso la habitación en la que se encontraba la serpiente y encuentro un cofre largo, dentro hay una especie de lanza extraña de color azul.<br>
+                                                                                La caja tiene algo escrito: <br>
+                                                                            </p>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="row">
+                                                                        <div class="twelve columns textos">
+                                                                            <h3>"La lanza de la justicia brindara a su portador el poder para derrotar a las sombras y proteger la esperanza de todos, aun en la muerte tu espíritu guerrero te permitirá acabar con la maldad."</h3>
+                                                                            <p> Es demasiado exagerado para mi gusto, pero la llevare en mano por si acaso.<br>
+ Un arma es un arma después de todo y si es tan poderosa como dice en la inscripción me servirá.</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+							</div>
+						</div>
+					</li>                                      
+                                        
 				</ol> <!-- .sub-slides -->
 			</li>
+                        
+               
 		</ol> <!-- .cd-slideshow -->
 	</div> <!-- .cd-slideshow-wrapper -->
 	
